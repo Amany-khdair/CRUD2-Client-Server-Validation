@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\FullStack course\\Bach-End and ASP.Net\\app1\\CRUD_With_Client\u0026ServerValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEC7CBD-4A4F-1ACB-C1C2-C8A6F8A80898}|CRUD_With_Client\u0026ServerValidation\\CRUD_With_Client\u0026ServerValidation.csproj|c:\\users\\hp\\desktop\\fullstack course\\bach-end and asp.net\\app1\\crud_with_client\u0026servervalidation\\crud_with_client\u0026servervalidation\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCEC7CBD-4A4F-1ACB-C1C2-C8A6F8A80898}|CRUD_With_Client\u0026ServerValidation\\CRUD_With_Client\u0026ServerValidation.csproj|solutionrelative:crud_with_client\u0026servervalidation\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEC7CBD-4A4F-1ACB-C1C2-C8A6F8A80898}|CRUD_With_Client\u0026ServerValidation\\CRUD_With_Client\u0026ServerValidation.csproj|c:\\users\\hp\\desktop\\fullstack course\\bach-end and asp.net\\app1\\crud_with_client\u0026servervalidation\\crud_with_client\u0026servervalidation\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCEC7CBD-4A4F-1ACB-C1C2-C8A6F8A80898}|CRUD_With_Client\u0026ServerValidation\\CRUD_With_Client\u0026ServerValidation.csproj|solutionrelative:crud_with_client\u0026servervalidation\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEC7CBD-4A4F-1ACB-C1C2-C8A6F8A80898}|CRUD_With_Client\u0026ServerValidation\\CRUD_With_Client\u0026ServerValidation.csproj|c:\\users\\hp\\desktop\\fullstack course\\bach-end and asp.net\\app1\\crud_with_client\u0026servervalidation\\crud_with_client\u0026servervalidation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCEC7CBD-4A4F-1ACB-C1C2-C8A6F8A80898}|CRUD_With_Client\u0026ServerValidation\\CRUD_With_Client\u0026ServerValidation.csproj|solutionrelative:crud_with_client\u0026servervalidation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEC7CBD-4A4F-1ACB-C1C2-C8A6F8A80898}|CRUD_With_Client\u0026ServerValidation\\CRUD_With_Client\u0026ServerValidation.csproj|c:\\users\\hp\\desktop\\fullstack course\\bach-end and asp.net\\app1\\crud_with_client\u0026servervalidation\\crud_with_client\u0026servervalidation\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCEC7CBD-4A4F-1ACB-C1C2-C8A6F8A80898}|CRUD_With_Client\u0026ServerValidation\\CRUD_With_Client\u0026ServerValidation.csproj|solutionrelative:crud_with_client\u0026servervalidation\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FullStack course\\Bach-End and ASP.Net\\app1\\CRUD_With_Client\u0026ServerValidation\\CRUD_With_Client\u0026ServerValidation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CRUD_With_Client\u0026ServerValidation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FullStack course\\Bach-End and ASP.Net\\app1\\CRUD_With_Client\u0026ServerValidation\\CRUD_With_Client\u0026ServerValidation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CRUD_With_Client\u0026ServerValidation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-19T16:00:53.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FullStack course\\Bach-End and ASP.Net\\app1\\CRUD_With_Client\u0026ServerValidation\\CRUD_With_Client\u0026ServerValidation\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD_With_Client\u0026ServerValidation\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FullStack course\\Bach-End and ASP.Net\\app1\\CRUD_With_Client\u0026ServerValidation\\CRUD_With_Client\u0026ServerValidation\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "CRUD_With_Client\u0026ServerValidation\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T15:55:41.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_mainLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FullStack course\\Bach-End and ASP.Net\\app1\\CRUD_With_Client\u0026ServerValidation\\CRUD_With_Client\u0026ServerValidation\\Views\\Shared\\_mainLayout.cshtml",
+              "RelativeDocumentMoniker": "CRUD_With_Client\u0026ServerValidation\\Views\\Shared\\_mainLayout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FullStack course\\Bach-End and ASP.Net\\app1\\CRUD_With_Client\u0026ServerValidation\\CRUD_With_Client\u0026ServerValidation\\Views\\Shared\\_mainLayout.cshtml",
+              "RelativeToolTip": "CRUD_With_Client\u0026ServerValidation\\Views\\Shared\\_mainLayout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T15:49:17.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FullStack course\\Bach-End and ASP.Net\\app1\\CRUD_With_Client\u0026ServerValidation\\CRUD_With_Client\u0026ServerValidation\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUD_With_Client\u0026ServerValidation\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FullStack course\\Bach-End and ASP.Net\\app1\\CRUD_With_Client\u0026ServerValidation\\CRUD_With_Client\u0026ServerValidation\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "CRUD_With_Client\u0026ServerValidation\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T15:28:14.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

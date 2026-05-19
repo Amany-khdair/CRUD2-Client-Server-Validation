@@ -228,3 +228,4 @@ C:\Users\hp\Desktop\FullStack course\Bach-End and ASP.Net\app1\CRUD_With_Client&
 C:\Users\hp\Desktop\FullStack course\Bach-End and ASP.Net\app1\CRUD_With_Client&ServerValidation\CRUD_With_Client&ServerValidation\obj\Debug\net9.0\CRUD_With_Client&ServerValidation.pdb
 C:\Users\hp\Desktop\FullStack course\Bach-End and ASP.Net\app1\CRUD_With_Client&ServerValidation\CRUD_With_Client&ServerValidation\obj\Debug\net9.0\CRUD_With_Client&ServerValidation.genruntimeconfig.cache
 C:\Users\hp\Desktop\FullStack course\Bach-End and ASP.Net\app1\CRUD_With_Client&ServerValidation\CRUD_With_Client&ServerValidation\obj\Debug\net9.0\ref\CRUD_With_Client&ServerValidation.dll
+C:\Users\hp\Desktop\FullStack course\Bach-End and ASP.Net\app1\CRUD_With_Client&ServerValidation\CRUD_With_Client&ServerValidation\obj\Debug\net9.0\CRUD_With_Client&ServerValidation.sourcelink.json

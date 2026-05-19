@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUD_With_Client&ServerValidation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2feb275801cd3f2cf2e8171b76296bc556f9f18")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUD_With_Client&ServerValidation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUD_With_Client&ServerValidation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
