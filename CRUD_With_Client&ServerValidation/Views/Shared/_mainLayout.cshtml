@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CRUD_MVC</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />   
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container">
+            <a class="navbar-brand" href="/Users/Index">CRUD App</a>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav m-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Users/Index">Users</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Users/Create">Create</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="flex-grow-1">
+        <div class="container mt-4">
+            <h1>@RenderSection("mainHeading", false)</h1>
+            @RenderBody()
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-light pt-4 pb-3 mb-auto">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-4 mb-3">
+                    <h5 class="fw-bold">About Us</h5>
+                    <p class="text-light">
+                        We provide high-quality services and modern web solutions.
+                    </p>
+                </div>
+
+                <div class="col-md-2 mb-3">
+                    <h5 class="fw-bold">Links</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="#" class="text-light text-decoration-none">Home</a></li>
+                        <li><a href="#" class="text-light text-decoration-none">Services</a></li>
+                        <li><a href="#" class="text-light text-decoration-none">Contact</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-md-3 mb-3">
+                    <h5 class="fw-bold">Contact</h5>
+                    <ul class="list-unstyled text-light">
+                        <li>Email: info@example.com</li>
+                        <li>Phone: +123 456 789</li>
+                        <li>Address: Main Street</li>
+                    </ul>
+                </div>
+
+                <div class="col-md-3 mb-3">
+                    <h5 class="fw-bold">Follow Us</h5>
+                    <div class="d-flex gap-3 fs-5">
+                        <a href="#" class="text-light"><i class="bi bi-facebook"></i></a>
+                        <a href="#" class="text-light"><i class="bi bi-instagram"></i></a>
+                        <a href="#" class="text-light"><i class="bi bi-twitter"></i></a>
+                        <a href="#" class="text-light"><i class="bi bi-linkedin"></i></a>
+                    </div>
+                </div>
+
+            </div>
+
+            <hr class="border-secondary">
+
+            <p class="text-center text-muted m-0">
+                © 2026 All rights reserved.
+            </p>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    
+    <partial name="_ValidationScriptsPartial"/>
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>

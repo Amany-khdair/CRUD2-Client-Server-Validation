@@ -1,0 +1,54 @@
+﻿@model List<Users>
+@{
+    Layout = "~/Views/Shared/_mainLayout.cshtml";
+}
+@section MainHeading {
+    All Users
+}
+
+<div class="container mt-4">
+
+    <div class="d-flex justify-content-between align-items-center mb-4">        
+        <a href="/Users/Create" class="btn btn-dark">
+            + Add New User
+        </a>
+    </div>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-warning text-center fs-5">
+            🚫 No users found
+        </div>
+    }
+    else
+    {
+        <div class="row g-4">
+
+            @foreach (var user in Model)
+            {
+                <div class="col-md-4">
+                    <div class="card shadow-sm border-0 rounded-3 h-100">
+
+                        <div class="card-body">
+                            <h4 class="card-title fw-bold">@user.Name</h4>
+
+                            <p class="card-text text-muted mb-1">
+                                <strong>City:</strong> @user.City
+                            </p>
+
+                        </div>
+
+                        <div class="card-footer bg-transparent border-0 text-end">
+                            <a href="/Users/Details/@user.Id" class="btn btn-outline-secondary btn-sm">Details</a>
+                            <a href="/Users/Edit/@user.Id" class="btn btn-outline-dark btn-sm">Edit</a>
+                            <a href="/Users/Delete/@user.Id" class="btn btn-outline-danger btn-sm">Delete</a>
+                        </div>
+
+                    </div>
+                </div>
+            }
+
+        </div>
+    }
+
+</div>
